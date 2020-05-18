@@ -16,7 +16,7 @@ Removed nearly all Methods since they did not gave a performance advantage and/o
 Added three Methods with CUDA acceleration.
 
 # Compiling
-Assuming you are in the right directory source compiles under Linux with the following command: 
+Assuming you are in the right directory (with olcPixelGameEngine.h) source compiles under Linux with the following command: 
 
 nvcc -O3 -o MandelBrotCudaPixelGameEngine MandelBrotCudaPixelGameEngine.cu -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++14
 
