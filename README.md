@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=PBvLs88hvJ8
 Code was taken from his Github and then edited 
 https://github.com/OneLoneCoder/olcPixelGameEngine/blob/master/Videos/OneLoneCoder_PGE_Mandelbrot.cpp
 
-Have fun exploring the Mandelbrot set with thousands of iterations smoothly.
+Have fun exploring the Mandelbrot set smoothly with thousands of iterations.
 
 # Changes 
 
