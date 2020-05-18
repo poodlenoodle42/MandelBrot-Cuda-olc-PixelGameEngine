@@ -20,6 +20,7 @@ Assuming you are in the right directory source compiles under Linux with the fol
 
 nvcc -O3 -o MandelBrotCudaPixelGameEngine MandelBrotCudaPixelGameEngine.cu -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++14
 
+Tested with CUDA Toolkit 10.2
 
 I do not know how to compile for windows.
 
