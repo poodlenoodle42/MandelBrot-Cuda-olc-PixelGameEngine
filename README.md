@@ -23,4 +23,4 @@ nvcc -O3 -o MandelBrotCudaPixelGameEngine MandelBrotCudaPixelGameEngine.cu -lX11
 Tested with CUDA Toolkit 10.2
 
 I do not know how to compile for windows.
-
+ 
